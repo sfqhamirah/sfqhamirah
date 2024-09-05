@@ -4,7 +4,7 @@ I am a passionate Bachelor of Computer Science (Hons.) student at Universiti Tek
 
 🚀 About Me
 
-[![<username>'s Stats](https://github.com/sfqhamirah/sfqhamirah))
+![<sfqhamirah>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
