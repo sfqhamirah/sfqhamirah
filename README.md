@@ -1,6 +1,16 @@
 # 💫 About Me:
 🔭 I'm currently pursuing my Bachelor's in Computer Science at UiTM Shah Alam.<br>💻 I’m passionate about web development, data science, and machine learning.<br>📝 I enjoy writing tech-related content to share insights and knowledge.<br>🌟 I’m exploring diverse fields including software engineering, mobile app development, and UI/UX design..
 
+## 🌱 Currently Exploring
+- 🚀 Machine learning with projects like house price prediction (accuracy: 80%+) and real-time object detection (using YOLO).
+- 🧠 Data analytics and visualization using Pandas, Matplotlib, and Power BI.
+- 📊 Gaining proficiency in big data tools like Tableau, RapidMiner, and OpenCV.
+
+## 🏆 Achievements
+- 🎓 Final Year Project: LuminaryHomesKL.com - House Price Prediction System in Kuala Lumpur using machine learning.
+- 🏅 Certifications in ASEAN Data Science Explorers 2024 and Understanding Blockchain Ecosystem with Internet Computer ICP.
+- 🤝 Participated in Jejak Melayu di Bumi Jambi research project focused on cultural exchange with the University of Jambi.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sfqhamirah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nursyafiqahamirah2497) 
