@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently pursuing my Bachelor's in Computer Science at UiTM Shah Alam.<br>💻 I’m passionate about web development, data science, and machine learning.<br>📝 I enjoy writing tech-related content to share insights and knowledge.<br>🌟 I’m exploring diverse fields including software engineering, mobile app development, and UI/UX design..
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at UiTM Shah Alam.
+- 💻 I’m passionate about web development, data science, and machine learning.
+- 📝 I enjoy writing tech-related content to share insights and knowledge.
+- 🌟 I’m exploring diverse fields including software engineering, mobile app development, and UI/UX design.
 
 ## 🌱 Currently Exploring
 - 🚀 Machine learning with projects like house price prediction (accuracy: 80%+) and real-time object detection (using YOLO).
