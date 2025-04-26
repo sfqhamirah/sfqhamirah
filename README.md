@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science at UiTM Shah Alam.
-- 💻 I’m passionate about web development, data science, and machine learning.
+- 💻 I’m passionate about web development, data science, software engineering and machine learning.
 - 📝 I enjoy writing tech-related content to share insights and knowledge.
 - 🌟 I’m exploring diverse fields including software engineering, mobile app development, and UI/UX design.
 
