@@ -1,18 +1,25 @@
 # 💫 About Me:
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at UiTM Shah Alam.
-- 💻 I’m passionate about web development, data science, software engineering and machine learning.
-- 📝 I enjoy writing tech-related content to share insights and knowledge.
-- 🌟 I’m exploring diverse fields including software engineering, mobile app development, and UI/UX design.
+
+* 🎓 I’m a **fresh graduate** with a Bachelor's in Computer Science (Hons.) majoring in **Big Data** from **UiTM Shah Alam**.
+* 💻 Passionate about **web development**, **data science**, **software engineering**, and **machine learning** — especially projects that blend logic with creativity.
+* 📝 I love simplifying tech concepts through writing and content creation to share insights and spark curiosity.
+* 🌟 I’ve explored diverse tech paths including **mobile app development**, **UI/UX design**, and **backend systems**, and I’m always open to learning more.
 
 ## 🌱 Currently Exploring
-- 🚀 Machine learning with projects like house price prediction (accuracy: 80%+) and real-time object detection (using YOLO).
-- 🧠 Data analytics and visualization using Pandas, Matplotlib, and Power BI.
-- 📊 Gaining proficiency in big data tools like Tableau, RapidMiner, and OpenCV.
+
+* 🚀 Machine learning with real-world projects like:
+    • **LuminaryHomesKL.com** – a house price prediction system for Kuala Lumpur (achieved **90%+ accuracy**)
+    • **Real-time object detection** using **YOLO** and **OpenCV**
+* 🧠 Data analytics and storytelling using **Pandas**, **Matplotlib**, and **Power BI**
+* 📊 Hands-on experience with big data tools like **KNIME**, **RapidMiner**, **Tableau**, and **WEKA**
 
 ## 🏆 Achievements
-- 🎓 Final Year Project: LuminaryHomesKL.com - House Price Prediction System in Kuala Lumpur using machine learning.
-- 🏅 Certifications in ASEAN Data Science Explorers 2024 and Understanding Blockchain Ecosystem with Internet Computer ICP.
-- 🤝 Participated in Jejak Melayu di Bumi Jambi research project focused on cultural exchange with the University of Jambi.
+
+* 🌐 **Final Year Project**: Built and deployed **LuminaryHomesKL.com**, a Streamlit-based house price prediction platform powered by machine learning models (XGBoost, Random Forest, Linear Regression).
+* 🏅 Earned certifications in:
+    • **ASEAN Data Science Explorers 2024**
+    • **Understanding Blockchain Ecosystem with Internet Computer (ICP)**
+* 🌍 Participated in **Jejak Melayu di Bumi Jambi** – a cross-cultural research initiative in collaboration with **Universitas Jambi**, Indonesia.
 
 
 ## 🌐 Socials:
