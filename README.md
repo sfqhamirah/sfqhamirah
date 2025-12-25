@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 * 🎓 I’m a **fresh graduate** with a Bachelor's in Computer Science (Hons.) majoring in **Big Data** from **UiTM Shah Alam**.
-* 💻 Passionate about **web development**, **data science**, **software engineering**, and **machine learning** — especially projects that blend logic with creativity.
+* 💻 Passionate about **web development**, **data science**, **software engineering**, and **machine learning** especially projects that blend logic with creativity.
 * 📝 I love simplifying tech concepts through writing and content creation to share insights and spark curiosity.
 * 🌟 I’ve explored diverse tech paths including **mobile app development**, **UI/UX design**, and **backend systems**, and I’m always open to learning more.
 
