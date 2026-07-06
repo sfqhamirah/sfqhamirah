@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-* 💻 **.NET / full-stack developer** (C#, ASP.NET Core, Entity Framework, SQL Server), with hands-on experience gained through a Software Developer Traineeship at Syarikat Takaful Malaysia Berhad.
+* 💻 Passionate software developer focused on **.NET and full stack development**, building applications with C#, ASP.NET Core, Entity Framework, SQL Server, and React.
 * 🎓 Computer Science graduate (Hons.), Big Data specialisation, **UiTM Shah Alam**.
 * 🚀 Currently enrolled in **AWS re/Start** (Cohort 4), building cloud fundamentals through Sept 2026.
 * 📊 Background in data science and machine learning — I like blending analytical thinking with clean engineering.
