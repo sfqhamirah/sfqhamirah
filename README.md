@@ -38,7 +38,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sfqhamirah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sfqhamirah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfqhamirah&show_icons=true&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
