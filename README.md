@@ -1,7 +1,7 @@
 # 💫 About Me
 
 * 💻 Full-stack developer focused on **.NET and React** — building with C#, ASP.NET Core, Entity Framework Core, SQL Server, and React (Vite, MUI, Context API).
-* 🎓 Computer Science graduate (Hons.), Big Data specialisation, **UiTM Shah Alam** — CGPA 3.6.
+* 🎓 Computer Science graduate (Hons.), Big Data specialisation, **UiTM Shah Alam**.
 * 🚀 Currently in **AWS re/Start (Cohort 4)** and the **TalentLabs MyMahir Front-End Development** track (through Nov 2026).
 * 📊 Background in data science and ML — I like pairing analytical thinking with clean engineering.
 * 📝 I enjoy simplifying tech concepts through writing and documentation.
